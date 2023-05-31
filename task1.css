@@ -1,0 +1,33 @@
+
+
+.celcius-input-styling{
+    background-color: white;
+    border-radius: 20px;
+    border-color: black;
+    height: 60px;
+    width: 250px;
+    margin-left: 100px;
+}
+.c-heading{
+    font-size: 40px;
+    color:black;
+}
+.main-heading-temp{
+    color: midnightblue;
+    font-size: 42px;
+    font-weight: bold;
+    font-family:monospace;
+    text-align: center;
+    background-color: rgba(9, 232, 239, 0.833);
+    padding: 5px;
+    height: 55px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+
+}
+.bg-image-temp{
+    background-image: url("https://media.istockphoto.com/id/1226639190/photo/sky-with-bright-sun-and-thermometer.jpg?s=612x612&w=0&k=20&c=ifSq8XsxWlFpDbv_nLtqSkP-60cyg-al8_ZGWbvjBKc=");
+    background-size: cover;
+    height: 100vh;
+}
